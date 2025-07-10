@@ -1,4 +1,4 @@
-# Planscan
+# Planscan (Engineering and Architectural Diagram Management System)
 **A Collaborative Web Platform for Engineers and Architects to Manage, Annotate, and Share Project Diagrams**
 
 ---
