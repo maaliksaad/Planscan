@@ -13,7 +13,7 @@ This project is a web-based platform designed to enable **engineers, architects,
 
 - Upload and manage project diagrams as multi-page documents.
 - Annotate and comment collaboratively in real time.
-- Use AI-based color coding for trade-specific markup.
+- Color coding for trade-specific markup.
 - Assign tasks to team members and track progress.
 
 It is built with a modern **full-stack architecture** with strong emphasis on collaboration, usability, and real-time updates.
@@ -83,7 +83,6 @@ I am a **[ Full Stack Developer(Frontend Heavy)]**. In this Project, I have work
 ✅ This project reflects **real-world product thinking** with attention to:
 - Usable, collaborative design
 - System architecture planning
-- AI integration for workflow enhancement
 - Scalability and maintainability
 
 ✅ I can provide:
