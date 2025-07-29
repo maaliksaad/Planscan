@@ -2,7 +2,11 @@
 **A Collaborative Web Platform for Engineers and Architects to Manage, Annotate, and Share Project Diagrams**
 
 ---
+## 🎥 Watch Demo
 
+[![Watch the demo](https://img.youtube.com/vi/ckgp1IVc_I8/maxresdefault.jpg)](https://www.youtube.com/watch?v=ckgp1IVc_I8)
+
+Click the image above to watch the full demo on YouTube.
 ## 🚀 Overview
 
 This project is a web-based platform designed to enable **engineers, architects, and design teams** to:
