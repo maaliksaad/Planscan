@@ -4,7 +4,7 @@
 ---
 ## 🎥 Watch Demo
 
-[![Watch the demo](https://img.youtube.com/vi/ckgp1IVc_I8/maxresdefault.jpg)](https://www.youtube.com/watch?v=ckgp1IVc_I8)
+[![Watch the demo](https://img.youtube.com/vi/ckgp1IVc_I8/hqdefault.jpg)](https://www.youtube.com/watch?v=ckgp1IVc_I8)
 
 Click the image above to watch the full demo on YouTube.
 ## 🚀 Overview
