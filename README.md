@@ -25,7 +25,7 @@ It is built with a modern **full-stack architecture** with strong emphasis on co
 - ✅ Upload and manage multiple diagrams per project
 - ✅ Separate pages per diagram with smooth navigation
 - ✅ Annotation and commenting tools for clear communication
-- ✅ AI-driven color coding for trade identification
+- ✅ color coding for trade identification
 - ✅ Task assignment and progress tracking
 
 ---
@@ -40,9 +40,9 @@ It is built with a modern **full-stack architecture** with strong emphasis on co
 
 ## ⚙️ Tech Stack 
 
-- **Frontend:** React, Next.js, Tailwind CSS,Fabric.js
-- **Backend:** Node.js, Nest.js
-- **Database:** MySQL
+- **Frontend:** React, Next.js, Tailwind CSS,Fabric.js,uppy , zustand, react-hook-form
+- **Backend:** Node.js, Nest.js, lambda functions , passport jwt, squelieze orm ,PostgressSQL 
+
 
 
 
@@ -74,7 +74,7 @@ I am a **[ Full Stack Developer(Frontend Heavy)]**. In this Project, I have work
 ## 📬 Contact
 
 - ✉️ **Email:** [saadaxis51@gmail.com]
-- 💼 **LinkedIn:** [[Muhammad-Saad-Aziz](https://www.linkedin.com/in/muhammad-saad-aziz-b2a053295/)]
+- 💼 **LinkedIn:** [[Muhammad-Saad-Aziz](https://www.linkedin.com/in/maaliksaad/)]
 
 ---
 
