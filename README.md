@@ -1,49 +1,95 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with
-[`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Planscan (Engineering and Architectural Diagram Management System)
+**A Collaborative Web Platform for Engineers and Architects to Manage, Annotate, and Share Project Diagrams**
 
-## Getting Started
+---
+## 🎥 Watch Demo
 
-First, run the development server:
+[![Watch the demo](https://img.youtube.com/vi/ckgp1IVc_I8/hqdefault.jpg)](https://www.youtube.com/watch?v=ckgp1IVc_I8)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Click the image above to watch the full demo on YouTube.
+## 🚀 Overview
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the
-result.
+This project is a web-based platform designed to enable **engineers, architects, and design teams** to:
 
-You can start editing the page by modifying `app/page.tsx`. The page
-auto-updates as you edit the file.
+- Upload and manage project diagrams as multi-page documents.
+- Annotate and comment collaboratively in real time.
+- Color coding for trade-specific markup.
+- Assign tasks to team members and track progress.
 
-This project uses
-[`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)
-to automatically optimize and load [Geist](https://vercel.com/font), a new font
-family for Vercel.
+It is built with a modern **full-stack architecture** with strong emphasis on collaboration, usability, and real-time updates.
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🎯 Key Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js
-  features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- ✅ Upload and manage multiple diagrams per project
+- ✅ Separate pages per diagram with smooth navigation
+- ✅ Annotation and commenting tools for clear communication
+- ✅ color coding for trade identification
+- ✅ Task assignment and progress tracking
 
-You can check out
-[the Next.js GitHub repository](https://github.com/vercel/next.js) - your
-feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 👥 Intended Users
 
-The easiest way to deploy your Next.js app is to use the
-[Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme)
-from the creators of Next.js.
+- **Engineers** and **Architects** managing construction and design documentation
+- **Project Managers** overseeing teams and workflows
+- **Collaborating Design Teams** needing centralized markup and review
 
-Check out our
-[Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying)
-for more details.
+---
+
+## ⚙️ Tech Stack 
+
+- **Frontend:** React, Next.js, Tailwind CSS,Fabric.js,uppy , zustand, react-hook-form
+- **Backend:** Node.js, Nest.js, lambda functions , passport jwt, squelieze orm ,PostgressSQL 
+
+
+
+
+---
+
+## 🔒 Code Access Policy
+
+> ⚠️ **Important:**  
+> The source code for this project is currently **private** and not publicly available in this repository.  
+
+If you are a **recruiter** or **hiring manager** interested in reviewing the code:
+
+📧 **Please email me at: [saadaxis51@gmail.com]**  
+*I will be happy to share access or provide a code walkthrough on request.*
+
+---
+
+## 💼 My Contributions in this Project
+
+I am a **[ Full Stack Developer(Frontend Heavy)]**. In this Project, I have worked on the frontend as a junior developer implementing features like:
+
+- Clean and Responsive UI/UX
+- Integrating GraphQl apis
+- Authentication/Authorization modules
+- Fabric.js implementations
+
+---
+
+## 📬 Contact
+
+- ✉️ **Email:** [saadaxis51@gmail.com]
+- 💼 **LinkedIn:** [[Muhammad-Saad-Aziz](https://www.linkedin.com/in/maaliksaad/)]
+
+---
+
+## 📌 Notes for Recruiters
+
+✅ This project reflects **real-world product thinking** with attention to:
+- Usable, collaborative design
+- System architecture planning
+- Scalability and maintainability
+
+✅ I can provide:
+- Code samples on request
+- Live demo walk-through
+- Technical discussions on architecture and design choices
+
+---
+
+> Thank you for your interest! Looking forward to discussing this and other projects with you.
