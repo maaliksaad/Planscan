@@ -52,16 +52,6 @@ If you are a **recruiter** or **hiring manager** interested in reviewing the cod
 📧 **Please email me at: [saadaxis51@gmail.com]**  
 *I will be happy to share access or provide a code walkthrough on request.*
 
----
-
-## 💼 My Contributions in this Project
-
-I am a **[ Full Stack Developer(Frontend Heavy)]**. In this Project, I have worked on the frontend as a junior developer implementing features like:
-
-- Clean and Responsive UI/UX
-- Integrating GraphQl apis
-- Authentication/Authorization modules
-- Fabric.js implementations
 
 ---
 
