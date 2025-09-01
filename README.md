@@ -46,12 +46,6 @@ It is built with a modern **full-stack architecture** with strong emphasis on co
 
 
 
----
-
-## 🔒 Code Access Policy
-
-> ⚠️ **Important:**  
-> The source code for this project is currently **private** and not publicly available in this repository.  
 
 If you are a **recruiter** or **hiring manager** interested in reviewing the code:
 
